@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1719636908 source:e:\ooooooooooop project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<bits/stdc++.h>
+	<unordered_map>
+

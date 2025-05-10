@@ -1,0 +1,11 @@
+Muhammad Ali,Ghafoor Ahmed,01-01-2001,3905712467892,NUM-BSCS-2024-01,CS,CS-5th Semster,1062,2020,BISE Lahore,1050,2024,BISE Lahore,Faisalabad,kachi gali,0321-5678901
+Sheeraz Khursheed,Khursheed Ahmed,31-08-2005,313034809621,NUM-BSEE-2025-02,EE,EE-7th Semster,989,2020,BISE Bahawalpur,992,2022,BISE Bahawalpur,Kot Samaba,Teacher colony kotsamaba R.Y.K,0301-0889159
+Mehmood Hassan,Rahim Bukhsh,04-06-2003,31303373577819,NUM-BSCS-2022-03,CS,CS-1st Semster,1022,2019,BISE Lahore,1082,2021,BISE Lahore,Lahore,Anarkali Bazar,0310-5824451
+Qamar Iqbal,Muhammad Iqbal,04-06-2004,3510190440321,NUM-BSBBA-2023-04,BBA,BBA-3rd Semster,986,2019,BISE Lahore,1080,2021,BISE Lahore,Chunian,Al-Noor colony chunian,03091724205
+Uzair Shahid,Shahid Sarwar,23-01-2003,3130366155773,NUM-BSMATH-2024-05,MATH,MATH-5th Semster,914,2020,BISE Bahawalpur,712,2022,BISE Bahawalpur,Rahimyar Khan,Aman garh R.Y.K,0302-7612022
+Ahmed Mehboob,Mehboob Ali,28-02-2002,3130332600561,NUM-BSEE-2022-06,EE,EE-1st Semster,1055,2020,BISE Bahawalpur,966,2023,BISE Bahawalpur,Rahimyar Khan,50/p R.Y.K,0307-9839680
+Ali Khan,Ahmed Khan,15-06-2003,3520212345678,NUM-BSCS-2025-07,CS,CS-7th Semster,950,2020,BSEK Karachi,1050,2022,BISE Karachi,Karachi,123 Main street karachi,0300-1234567
+Fatima Ali,Abbas Ali,08-07-2002,3530223456789,NUM-BSEE-2023-08,EE,EE-3rd Semster,980,2019,BISE Lahore,1075,2021,BISE Lahore,Lahore,456 Avenue Park Lahore,0321-2345678
+Usman Ahmed,Khalid Ahmed,20-08-2005,3620134567890,NUM-BSBBA-2025-09,BBA,BBA-7th Semster,700,2020,BISE Federal,889,2022,BISE Federal,Islamabad,789 Green lane,0333-2356801
+Ayesha Shah,Nadeem Shah,19-06-2001,3529835678901,NUM-BSMATH-2024-010,MATH,MATH-5th Semster,805,2019,BISE Rawalpindi,989,2021,BISE Rawalpindi,Rawalpindi,Chowk ptana,0334-6677809
+Aqsa,Ali,12-09-2002,1235647891578,NUM-BS-CS1-11,CS,,1010,2020,BISE Sargodha,1009,2022,BISE Sargodha,jandanwala,35/36,09785543277
